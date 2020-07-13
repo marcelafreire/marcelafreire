@@ -1,10 +1,10 @@
 ### Hey! 👋
 
-My name is Marcela and I'm a Web Developer.
+My name is Marcela and I'm a **Web Developer**.
 
 - 👾 In Love with code
-- 💻 Front-End Developer
-- 🎨 Graphic Designer
+- 💻 Javascript, ReactJs, NodeJs, Express, MongoDB, Sass.
+- 🎨 Also Graphic Designer
 - 📚 Always learning and improving
 
 <!--
