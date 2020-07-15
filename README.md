@@ -3,7 +3,7 @@
 My name is Marcela and I'm a **Web Developer**.
 
 - 👾 In Love with code
-- 💻 Javascript, ReactJs, NodeJs, Express, MongoDB, Sass.
+- 💻 Javascript, ReactJs, React Hooks, Redux, NodeJs, Express, MongoDB, Sass and more.
 - 🎨 Also Graphic Designer
 - 📚 Always learning and improving
 
